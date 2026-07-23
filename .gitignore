@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment files
+.env
+**/.env
+
+
+# Streamlit secrets
+**/.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Generated embeddings
+*.pkl 
+
+# Trained ML models
+ml_models/finetuned-bert/
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
