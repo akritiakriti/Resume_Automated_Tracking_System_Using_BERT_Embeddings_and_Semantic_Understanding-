@@ -1,7 +1,5 @@
 # Resume_Automated_Tracking_System_Using_BERT_Embeddings_and_Semantic_Understanding-
 
-# ATS Resume Scorer - AI Powered Resume Analysis System
-
 An AI-powered Applicant Tracking System (ATS) that analyzes resumes against job descriptions using Natural Language Processing (NLP) and transformer-based models. The system evaluates resume compatibility, generates ATS scores, identifies missing skills, and provides personalized recommendations to improve resume quality.
 
 ---
